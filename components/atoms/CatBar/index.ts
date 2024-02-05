@@ -1,1 +1,1 @@
-export { CatBar } from './CatBarList';
+export { CatBarList } from './CatBarList';
