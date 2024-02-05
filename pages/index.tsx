@@ -111,7 +111,6 @@ export default function Home() {
             </Button>
           </div>
           <Carousel
-            responsive={true}
             className='relative'
             useArrowKeys={true}
             swiping
